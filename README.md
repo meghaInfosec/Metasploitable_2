@@ -1,4 +1,3 @@
-[README(2).md](https://github.com/user-attachments/files/31690605/README.2.md)
 # 🛡️ Metasploitable 2 — Penetration Testing Lab
 
 A hands-on educational penetration testing exercise performed against **Metasploitable 2**, an intentionally vulnerable Linux VM built by Rapid7 for security training purposes.
